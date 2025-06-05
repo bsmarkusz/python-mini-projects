@@ -1,3 +1,3 @@
 # This is simple program to show how print statement works
 
-print('Hello Python World and my world too! ddddddddd')
+print('Hello Python ')
